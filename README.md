@@ -21,4 +21,4 @@ I didn’t have to build the game from scratch. Udacity has provided the art ass
 
 Once finished, the game should look as show on this [video] (https://www.youtube.com/watch?v=SxeHV1kt7iU&feature=youtu.be). 
 
-### ...and now run away!!###
+### ...and now run away!! ###
