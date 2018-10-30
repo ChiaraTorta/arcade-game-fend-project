@@ -4,6 +4,7 @@
 
 * [Instructions](#instructions)
 * [Description](#description)
+* [Preview](#preview)
 
 ## Instructions
 
